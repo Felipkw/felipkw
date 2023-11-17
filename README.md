@@ -10,12 +10,8 @@
 
 ## Skills 💻
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+### Sabe nada
 
 ## Learning 📒
 
-<div style="display: inline_block">
-  <img align="center" alt "Html5" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="center" alt "Html5" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="center" alt "Html5" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<div/>
+### Aprendendo carai nenhum
