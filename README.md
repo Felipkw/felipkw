@@ -1,6 +1,5 @@
 # Hi! I'm Felipe de Lima Batista 🐧
 
-  <img align="right" alt="Aki Hayakawa" width="220" src="https://media.tenor.com/_swm0zs2tGgAAAAC/chainsaw-man-aki.gif"></img>
   + IT Technician graduated from IFAL Campus Arapiraca;
   + Studying to become a Full Stack Developer;
   + I like playing games, watching anime and programming in my free time.
